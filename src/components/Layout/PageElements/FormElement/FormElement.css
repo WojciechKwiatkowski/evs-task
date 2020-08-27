@@ -1,0 +1,13 @@
+.formElement {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.formElementBox {
+    flex-grow: 1;
+    flex-basis: 0;
+    margin-right: 1rem;
+}

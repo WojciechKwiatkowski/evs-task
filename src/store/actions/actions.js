@@ -1,0 +1,2 @@
+export const UPDATE_USER = 'UPDATE_USER';
+export const GET_USER_FROM_SESSION = 'GET_USER_FROM_SESSION';

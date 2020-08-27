@@ -1,0 +1,27 @@
+.userInformationPage{
+    background: lightblue;
+}
+
+.userInformationNameContainer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.userInformationButtonContainer{
+    max-width: 10rem;
+    margin:auto;
+    padding-bottom: 3rem;
+}
+
+.userInformationPictureContainer {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.userInformationValidationContainer {
+    max-width: 10rem;
+    margin:auto;
+    padding-bottom: 3rem;
+}

@@ -1,0 +1,42 @@
+.topMenu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: left;
+    font-size: 0.95rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    background: lightblue;
+}
+
+.topMenuHomeLinkContainer {
+    flex-grow: 1;
+    min-height: 5rem;
+    margin-left: 1rem;
+}
+
+.topMenuSpaceFiller{
+    flex-grow: 1;
+}
+
+.topMenuLinks {
+    padding: 0px;
+    margin: 0px;
+}
+
+.topMenuLinks ul {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    margin: 0px;
+    margin-right: 2rem;
+    padding: 0px;
+}
+
+.topMenuLinks ul li {
+    flex-grow: 1;
+    list-style-type: none;
+    border-radius: 5px;
+    color: white;
+    margin-left: 1rem;
+}

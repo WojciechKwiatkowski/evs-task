@@ -1,0 +1,8 @@
+.informationBox {
+    color: white;
+    background: #07387d;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+    border: 2px solid white;
+    text-align: center;
+}
