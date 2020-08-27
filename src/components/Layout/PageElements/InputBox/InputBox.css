@@ -7,4 +7,5 @@
     margin: auto;
     text-align: center;
     font-size: 1rem;
+    width: -webkit-fill-available;
 }
